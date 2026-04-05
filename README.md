@@ -31,7 +31,7 @@ The primary deliverable for this course is a **capstone breach analysis report**
 
 ## Proof of Participation
 
-📸 [`assets/certificate.png`](./assets/certificate.pdf) — Coursera/IBM course completion certificate
+📸 [`assets/certificate.pdf`](./assets/certificate.pdf) — Coursera/IBM course completion certificate
 
 ---
 
