@@ -31,7 +31,7 @@ The primary deliverable for this course is a **capstone breach analysis report**
 
 ## Proof of Participation
 
-📸 [`assets/certificate.png`](./assets/certificate.png) — Coursera/IBM course completion certificate
+📸 [`assets/certificate.png`](./assets/certificate.pdf) — Coursera/IBM course completion certificate
 
 ---
 
@@ -44,5 +44,5 @@ ea-2-cybersecurity-capstone/
 ├── capstone/
 │   └── mgm-breach-analysis.md
 └── assets/
-    └── certificate.png
+    └── certificate.pdf
 ```
