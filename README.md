@@ -38,7 +38,7 @@ The primary deliverable for this course is a **capstone breach analysis report**
 ## Repo Structure
 
 ```
-ea-2-cybersecurity-capstone/
+CPTS427ExtracurricularAssignment02/
 ├── README.md
 ├── REFLECTION.md
 ├── capstone/
